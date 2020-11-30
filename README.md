@@ -4,7 +4,7 @@ Some of my webpages projects. <br />
 They were mainly designed as a dashboard for various online sensors and IoT connected devices.
 They were deployed on AWS EC2 servers or on single board computers (e.g. Raspberry-Pi).
 
-Some web interfaces are hosted by IoT devices themselves to allow for setup and configuration.
+Some web interfaces are hosted by IoT devices themselves to allow for easy setup and configuration.
 
 #
 #
