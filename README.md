@@ -1,4 +1,4 @@
-# Web frontend **Portfolio**
+# Web frontend Portfolio
 
 Some of my webpages projects. <br />
 They were mainly designed as a dashboard for various online sensors and IoT connected devices.
