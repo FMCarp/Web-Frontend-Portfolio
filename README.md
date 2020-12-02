@@ -15,3 +15,12 @@ Some web interfaces are hosted by IoT devices themselves to allow for easy setup
 **Air Quality sensors dashboard** <br />
 ![Opt 2](https://user-images.githubusercontent.com/29917546/100623812-548bf200-332b-11eb-9d02-b270de23add2.jpg) <br /> <br /> <br /> <br /> <br />
 
+**ESP8266 device configuration page 1** <br />
+![P1](https://user-images.githubusercontent.com/29917546/100907994-a53e4f00-34d3-11eb-8610-30c0b5f5617d.jpg)
+
+**ESP8266 device configuration page 2** <br />
+![P2](https://user-images.githubusercontent.com/29917546/100907996-a5d6e580-34d3-11eb-9c3d-f54eaf31a9ca.jpg)
+
+**ESP8266 device configuration page 3** <br />
+![P3](https://user-images.githubusercontent.com/29917546/100907997-a66f7c00-34d3-11eb-8be9-1be9573e2591.jpg)
+
