@@ -13,7 +13,7 @@ Some web interfaces are hosted by IoT devices themselves to allow for easy setup
 ![Bath](https://user-images.githubusercontent.com/29917546/100912209-da00d500-34d8-11eb-860d-22d5dfbbe318.jpg) <br /> <br /> <br /> <br /> <br />
 
 **Air Quality sensors dashboard** <br />
-![Opt 2](https://user-images.githubusercontent.com/29917546/100623812-548bf200-332b-11eb-9d02-b270de23add2.jpg) <br /> <br /> <br /> <br /> <br />
+![Opt 2](https://user-images.githubusercontent.com/29917546/100912466-2b10c900-34d9-11eb-93e3-8e1cbfc62c8b.jpg) <br /> <br /> <br /> <br /> <br />
 
 **Wi-Fi IoT device configuration page 1** <br />
 ![P1](https://user-images.githubusercontent.com/29917546/100911401-d587ec80-34d7-11eb-9c3e-4c268e4aeb47.jpg) <br /> <br /> <br /> <br /> <br />
